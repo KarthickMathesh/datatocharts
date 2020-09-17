@@ -171,7 +171,7 @@ const chart = new Chart(ctx, {
     },
     title: {
       display: true,
-      text: "Rando Company Revenue's",
+      text: "Random Fake Company Revenue's",
       fontSize: 20,
     },
   },
